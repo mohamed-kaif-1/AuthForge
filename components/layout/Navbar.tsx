@@ -1,4 +1,4 @@
-import { Bell, Search, Activity, ShieldCheck, Database, CheckCircle2, ChevronDown } from "lucide-react";
+import { Bell, Search, Activity, ShieldCheck, Database, ChevronDown } from "lucide-react";
 
 export default function Navbar() {
   return (

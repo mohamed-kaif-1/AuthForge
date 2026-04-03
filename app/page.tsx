@@ -1,7 +1,7 @@
 "use client";
 
 import React, { useState } from 'react';
-import { LayoutDashboard, Send, ShieldCheck, ClipboardList, Database, Activity, Fingerprint, Layers, Cpu, Server, Lock, ShieldAlert } from 'lucide-react';
+import { LayoutDashboard, Send, ShieldCheck, ClipboardList, Activity, Fingerprint, Layers, Cpu, Server, Lock, ShieldAlert } from 'lucide-react';
 import DashboardView from '@/components/views/DashboardView';
 import RequestView from '@/components/views/RequestView';
 import ApprovalView from '@/components/views/ApprovalView';
